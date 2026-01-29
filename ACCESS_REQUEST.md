@@ -7,7 +7,9 @@ repository.
 These include:
 - Test strategies and governance models
 - Executive risk dashboards
+- Engagement Model
 - Quality maturity assessments
+- Applying Operational Test Management
 - Case studies and examples
 
 Access can be granted on request for:
