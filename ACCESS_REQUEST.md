@@ -15,4 +15,4 @@ Access can be granted on request for:
 - Programme and delivery leaders
 - Recruiters representing active roles
 
-Please request access via GitHub or via the recruitement agency.
+Please request access via GitHub or via the recruitment agency.
