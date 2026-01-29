@@ -9,7 +9,7 @@ These include:
 - Executive risk dashboards
 - Engagement Model
 - Quality maturity assessments
-- Applying Operational Test Management
+- Applied Operational Test Management
 - Case studies and examples
 
 Access can be granted on request for:
