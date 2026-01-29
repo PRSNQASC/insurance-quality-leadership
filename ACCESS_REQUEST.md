@@ -8,7 +8,7 @@ These include:
 - Test strategies and governance models
 - Executive risk dashboards
 - Engagement Model
-- Quality maturity assessments
+- Maturity assessments
 - Applied Operational Test Management
 - Case studies and examples
 
