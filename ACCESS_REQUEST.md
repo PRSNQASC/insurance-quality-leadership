@@ -1,8 +1,7 @@
 # Access to Detailed Quality Artefacts
 
 Due to the regulated and commercially sensitive nature of insurance
-delivery, detailed quality artefacts are maintained in a private
-repository.
+delivery, detailed quality artefacts are maintained in a private repo : https://github.com/PRSNQASC/insurance-quality-leadership-private
 
 These include:
 - Test strategies and governance models
