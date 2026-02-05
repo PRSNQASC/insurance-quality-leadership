@@ -1,11 +1,8 @@
 # Insurance Quality & Test Leadership
 
-This repository provides a high-level overview of my approach to
-quality leadership, test strategy, and risk-based assurance within
-Commercial and Lloyd’s Market insurance environments.
+welcome to my repo, it aims to provide a high-level overview of my approach to quality leadership, test strategy modelling and risk-based assurance.
 
-It is intentionally concise and high-level due to the regulated and
-commercially sensitive nature of insurance delivery.
+i have purposely kept it concise and pitched at a high-level since it aims to communicate and drive conversation throughout the recruitment process. 
 
 ---
 
